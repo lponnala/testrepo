@@ -1,4 +1,5 @@
 # testrepo
 To test github features.
 
-on branch b2
+resources:
+- https://opensource.com/article/19/7/create-pull-request-github
