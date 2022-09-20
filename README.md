@@ -6,4 +6,4 @@ resources:
 
 Adding some text here.
 
-Adding some more text here.
+Replacing with some text here.
